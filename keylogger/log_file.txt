@@ -54,3 +54,206 @@
 2020-01-25 22:45:47.129019:	D
 2020-01-25 22:45:47.282563:	 
 2020-01-25 22:45:47.417216:	¾
+2020-01-25 22:45:48.877097:	<ENTER>
+
+2020-01-25 22:45:48.999217:	G
+2020-01-25 22:45:49.104613:	I
+2020-01-25 22:45:49.205296:	T
+2020-01-25 22:45:49.363875:	 
+2020-01-25 22:45:49.477226:	C
+2020-01-25 22:45:49.715122:	O
+2020-01-25 22:45:49.805198:	M
+2020-01-25 22:45:49.998816:	M
+2020-01-25 22:45:50.038936:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_45_49.png---
+2020-01-25 22:45:50.174420:	I
+2020-01-25 22:45:50.679531:	T
+2020-01-25 22:45:50.969305:	 
+2020-01-25 22:45:51.220519:	½
+2020-01-25 22:45:52.163142:	 
+2020-01-25 22:45:52.419987:	<BACKSPACE>
+2020-01-25 22:46:05.203672:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_46_05.png---
+2020-01-25 22:46:17.830766:	M
+2020-01-25 22:46:20.086246:	 
+2020-01-25 22:46:20.190419:	 
+2020-01-25 22:46:20.328785:	Þ
+2020-01-25 22:46:20.372220:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_46_20.png---
+2020-01-25 22:46:20.601233:	Þ
+2020-01-25 22:46:35.519919:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_46_35.png---
+2020-01-25 22:46:50.671376:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_46_50.png---
+2020-01-25 22:47:05.839485:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_47_05.png---
+2020-01-25 22:47:20.992002:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_47_20.png---
+2020-01-25 22:47:36.164671:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_47_36.png---
+2020-01-25 22:47:51.313547:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_47_51.png---
+2020-01-25 22:48:06.482650:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_48_06.png---
+2020-01-25 22:48:21.650928:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_48_21.png---
+2020-01-25 22:48:27.134402:	%
+2020-01-25 22:48:27.277035:	K
+2020-01-25 22:48:27.429946:	E
+2020-01-25 22:48:27.770639:	Y
+2020-01-25 22:48:27.929329:	L
+2020-01-25 22:48:28.048098:	O
+2020-01-25 22:48:28.172433:	G
+2020-01-25 22:48:28.399881:	G
+2020-01-25 22:48:28.449888:	E
+2020-01-25 22:48:28.640380:	R
+2020-01-25 22:48:28.809246:	 
+2020-01-25 22:48:28.915001:	W
+2020-01-25 22:48:29.031840:	O
+2020-01-25 22:48:29.156433:	R
+2020-01-25 22:48:29.296210:	K
+2020-01-25 22:48:29.642958:	S
+2020-01-25 22:48:29.716534:	¡
+2020-01-25 22:48:30.324653:	¿
+2020-01-25 22:48:30.645425:	¿
+2020-01-25 22:48:31.356964:	¿
+2020-01-25 22:48:33.870121:	<ENTER>
+
+2020-01-25 22:48:33.994402:	G
+2020-01-25 22:48:34.095462:	I
+2020-01-25 22:48:34.213696:	T
+2020-01-25 22:48:34.768790:	 
+2020-01-25 22:48:35.018595:	P
+2020-01-25 22:48:35.107899:	U
+2020-01-25 22:48:35.212737:	S
+2020-01-25 22:48:35.313551:	H
+2020-01-25 22:48:35.476301:	 
+2020-01-25 22:48:35.568191:	O
+2020-01-25 22:48:35.663660:	R
+2020-01-25 22:48:35.813770:	I
+2020-01-25 22:48:35.876520:	G
+2020-01-25 22:48:35.946737:	I
+2020-01-25 22:48:36.091930:	N
+2020-01-25 22:48:36.229144:	 
+2020-01-25 22:48:36.365379:	M
+2020-01-25 22:48:36.448791:	A
+2020-01-25 22:48:36.739390:	S
+2020-01-25 22:48:36.874095:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_48_36.png---
+2020-01-25 22:48:36.921403:	T
+2020-01-25 22:48:36.997654:	E
+2020-01-25 22:48:37.130818:	R
+2020-01-25 22:48:52.047663:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_48_51.png---
+2020-01-25 22:49:07.222615:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_49_07.png---
+2020-01-25 22:49:22.393009:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_49_22.png---
+2020-01-25 22:49:37.561210:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_49_37.png---
+2020-01-25 22:49:52.719298:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_49_52.png---
+2020-01-25 22:50:07.887649:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_50_07.png---
+2020-01-25 22:50:23.045885:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_50_22.png---
+2020-01-25 22:50:38.202514:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_50_38.png---
+2020-01-25 22:50:53.375396:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_50_53.png---
+2020-01-25 22:51:08.546192:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_51_08.png---
+2020-01-25 22:51:21.208516:	<ENTER>
+
+2020-01-25 22:51:23.719621:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_51_23.png---
+2020-01-25 22:51:25.394734:	½
+2020-01-25 22:51:31.296983:	»
+2020-01-25 22:51:42.548348:	--PROGRAM STARTED--
+2020-01-25 22:51:42.735811:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_51_42.png---
+2020-01-25 22:51:52.563863:	½
+2020-01-25 22:51:52.735629:	¢
+2020-01-25 22:51:54.672341:	C
+2020-01-25 22:52:08.640347:	--PROGRAM STARTED--
+2020-01-25 22:52:08.827805:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_52_08.png---
+2020-01-25 22:52:11.516314:	  
+2020-01-25 22:52:11.594249:	 
+2020-01-25 22:52:14.344398:	K
+2020-01-25 22:52:14.516162:	 
+2020-01-25 22:52:17.943766:	O
+2020-01-25 22:52:19.175738:	¢
+2020-01-25 22:52:19.504139:	¢
+2020-01-25 22:52:19.722829:	¢
+2020-01-25 22:52:19.925621:	¢
+2020-01-25 22:52:20.097634:	¢
+2020-01-25 22:52:21.547809:	¢
+2020-01-25 22:52:23.985449:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_52_23.png---
+2020-01-25 22:52:24.470033:	1
+2020-01-25 22:52:25.344961:	2
+2020-01-25 22:52:25.672565:	3
+2020-01-25 22:52:25.797819:	4
+2020-01-25 22:52:28.421917:	4
+2020-01-25 22:52:31.749571:	Û
+2020-01-25 22:52:34.629380:	 
+2020-01-25 22:52:34.691815:	 
+2020-01-25 22:52:37.204575:	Û
+2020-01-25 22:52:38.329471:	'
+2020-01-25 22:52:39.163092:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_52_38.png---
+2020-01-25 22:52:40.955993:	<BACKSPACE>
+2020-01-25 22:52:42.406500:	 
+2020-01-25 22:52:54.328204:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_52_54.png---
+2020-01-25 22:52:55.828307:	<BACKSPACE>
+2020-01-25 22:52:59.411392:	¾
+2020-01-25 22:53:11.047585:	--PROGRAM STARTED--
+2020-01-25 22:53:11.219455:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_53_11.png---
+2020-01-25 22:53:22.502638:	.
+2020-01-25 22:53:22.768214:	.
+2020-01-25 22:53:23.096304:	.
+2020-01-25 22:53:26.376147:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_53_26.png---
+2020-01-25 22:53:35.077414:	.
+2020-01-25 22:53:40.251553:	½
+2020-01-25 22:53:55.125706:	--PROGRAM STARTED--
+2020-01-25 22:53:55.313196:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_53_55.png---
+2020-01-25 22:53:57.750133:	 -
+2020-01-25 22:53:57.937894:	 
+2020-01-25 22:54:00.968089:	-
+2020-01-25 22:54:01.077760:	 
+2020-01-25 22:54:01.733544:	-
+2020-01-25 22:54:02.030341:	-
+2020-01-25 22:54:02.218082:	-
+2020-01-25 22:54:09.499874:	-
+2020-01-25 22:54:10.499324:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_54_10.png---
+2020-01-25 22:54:14.126111:	-
+2020-01-25 22:54:14.407290:	-
+2020-01-25 22:54:14.672900:	-
+2020-01-25 22:54:14.860293:	 
+2020-01-25 22:54:15.125884:	-
+2020-01-25 22:54:15.406733:	-
+2020-01-25 22:54:15.641094:	-
+2020-01-25 22:54:15.735054:	 
+2020-01-25 22:54:15.938176:	-
+2020-01-25 22:54:16.188137:	-
+2020-01-25 22:54:16.203642:	 
+2020-01-25 22:54:16.406801:	-
+2020-01-25 22:54:16.672498:	-
+2020-01-25 22:54:16.859819:	-
+2020-01-25 22:54:16.984816:	-
+2020-01-25 22:54:17.078625:	 
+2020-01-25 22:54:17.234684:	-
+2020-01-25 22:54:17.484617:	-
+2020-01-25 22:54:17.656504:	-
+2020-01-25 22:54:17.906599:	-
+2020-01-25 22:54:25.675528:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_54_25.png---
+2020-01-25 22:54:28.142984:	-
+2020-01-25 22:54:35.102883:	»
+2020-01-25 22:56:46.868694:	--PROGRAM STARTED--
+2020-01-25 22:56:47.056146:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_56_46.png---
+2020-01-25 22:56:53.635790:	Þ
+2020-01-25 22:56:53.857919:	¢
+2020-01-25 22:57:00.650676:	--PROGRAM STARTED--
+2020-01-25 22:57:00.822550:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_57_00.png---
+2020-01-25 22:57:06.356029:	<ENTER>
+
+2020-01-25 22:57:06.980714:	'
+2020-01-25 22:57:08.497317:	'
+2020-01-25 22:57:08.684760:	%
+2020-01-25 22:58:26.845070:	--PROGRAM STARTED--
+2020-01-25 22:58:27.032527:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_58_26.png---
+2020-01-25 22:58:29.391767:	1
+2020-01-25 22:58:30.578879:	2
+2020-01-25 22:58:32.971718:	3
+2020-01-25 22:58:33.391600:	J
+2020-01-25 22:58:33.454186:	A
+2020-01-25 22:58:33.719591:	C
+2020-01-25 22:58:33.875885:	O
+2020-01-25 22:58:34.708474:	V
+2020-01-25 22:58:35.549219:	B
+2020-01-25 22:58:36.314917:	º
+2020-01-25 22:58:42.234361:	---Screeshot taken: saved to C:\Users\magra\PycharmProjects\hackingWithPython\keylogger\screencaps\screen_2020_01_25_22_58_42.png---
+2020-01-25 22:58:54.708027:	'
+2020-01-25 22:58:54.796740:	G
+2020-01-25 22:58:54.913277:	I
+2020-01-25 22:58:55.014776:	T
+2020-01-25 22:58:55.315852:	 
+2020-01-25 22:58:55.612031:	A
+2020-01-25 22:58:55.758666:	D
+2020-01-25 22:58:55.912543:	D
+2020-01-25 22:58:56.041296:	 
+2020-01-25 22:58:56.278082:	.

